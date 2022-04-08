@@ -19,5 +19,8 @@ It's in the southern part of China. The reasons you hava to visit it one time du
 * friendly people
 
 >That would be all for this page. Thank you for reading!
-Horizontal rule:
+
 ---
+Besides is a picture from my own computer instead of the website link.
+
+![Image](1.png)
