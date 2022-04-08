@@ -24,3 +24,7 @@ It's in the southern part of China. The reasons you hava to visit it one time du
 Besides is a picture from my own computer instead of the website link.
 
 ![Image](1.png)
+
+# Another exercise
+
+*Hiiiiii*
