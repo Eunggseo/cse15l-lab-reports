@@ -64,9 +64,31 @@ scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
 
 ![image](6.png)
 
+## *Fifth step*: Setting an SSH Key
+
+Everytime wehen we need to log in or run scp, we have to type our passwords many times. There has a more easier way to solve this problem --  SSH Key
+
+Type the code below to help you set up (on client (your computer)):
 
 
+$ ssh-keygen
 
+Generating public/private rsa key pair.
+
+Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa
+
+Enter passphrase (empty for no passphrase): 
+
+You will see a screen like this below:
+
+![](7.png)
+
+## *Sixth step*: Optimizing Remote Running
+
+You can come up with your own way to have a most convenient method to make a local edit to your file!
+
+Here is a demo:
+![](8.png)
 
 
 
