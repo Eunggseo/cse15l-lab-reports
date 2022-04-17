@@ -21,7 +21,7 @@ After you installed susscefully, you will see a screen like this:
 
  ![Image](4.png)
 
- ## *Third step*: Trying Some Commands
+## *Third step*: Trying Some Commands
 
 You can try different commonds on your computer and the remote one after remote connecting. For example:
 
