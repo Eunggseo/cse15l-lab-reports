@@ -39,6 +39,7 @@ Here is a useful Terminal commands [cheatsheet](https://www.makeuseof.com/tag/ma
 If we want to cope a file from our own computer(client) to a remote computer(server), this process is `scp`.
 
 * Create a file and name it WhereAmI.java and paste the following lines:
+
 ```
 class WhereAmI {
 
@@ -49,9 +50,9 @@ class WhereAmI {
     System.out.println(System.getProperty("user.dir"));
 
   }
-
 }
 ```
+
 * Use `javac` and `java` to compile the file. 
 
 * Then run this commond using your user name in your terminal:
@@ -79,6 +80,7 @@ Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa): /Users/<us
 
 Enter passphrase (empty for no passphrase): 
 ```
+
 You will see a screen like this below:
 
 ![](7.png)
