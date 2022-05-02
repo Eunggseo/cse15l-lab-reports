@@ -28,7 +28,7 @@
 
 2. link to the test file for a failure-inducing input that prompted you to make that change
 
-   [test file 2](https://github.com/Eunggseo/markdown-parser/blob/main/test-file.md)
+   [test file 2](https://github.com/Eunggseo/markdown-parser/blob/main/test-file2.md)
 
 3.  the symptom
     ![image4](labreport204.png)
