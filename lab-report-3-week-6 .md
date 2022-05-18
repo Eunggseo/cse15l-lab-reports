@@ -22,11 +22,12 @@
   ![Image](remotepublicterminal.png)
 
   2. Show where the private key you made is stored on your user account (but not its contents) as a screenshot.
-
+  ![Image](privatekey.png)
 
   3. Show running `git` commands to commit and push a change to Github while logged into your ieng6 account.
-
+  ![Image](gitcommand.png)
   4. Show a link for the resulting commit.
+  
 
 * ## Copy whole directories with `scp -r`
 
