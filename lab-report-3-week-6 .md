@@ -16,7 +16,10 @@
 * ## Setup Github Access from ieng6
 
   1. Show where the public key you made is stored on Github and in your user account (screenshot).
-![Image](lab3sshpublic.png)
+  * Github:
+  ![Image](remotepublickey.png)
+  * user account:
+  ![Image](remotepublicterminal.png)
 
   2. Show where the private key you made is stored on your user account (but not its contents) as a screenshot.
 
@@ -50,5 +53,7 @@
    ![Image](ssh.png)
 
   3. Show (like in the last step of the first lab) combining `scp, ;,` and `ssh` to copy the whole directory and run the tests in one line.
- ![Image](sshjavac.png)
+ ![Image](lab3final.png)
+
+
 
