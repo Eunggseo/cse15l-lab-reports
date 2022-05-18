@@ -27,7 +27,7 @@
   3. Show running `git` commands to commit and push a change to Github while logged into your ieng6 account.
   ![Image](gitcommand.png)
   4. Show a link for the resulting commit.
-  
+
 
 * ## Copy whole directories with `scp -r`
 
@@ -37,13 +37,16 @@
   ```
   ⤇ scp -r *.java *.md lib/ cs15lsp22@ieng6.ucsd.edu:markdown-parse
   ```
+  By doing this, we can 
   ![Image](scp1.png)
-    Command 2:
+  This command helps us to log into the server with `ssh` and see all of our files there in `markdown-parse`
+
+    Command 2 is to copy only md and java file:
   ```
   ⤇ scp -r *.java *.md lib/ ieng6:markdown-parse
   ```
   ![Image](scp2.png)
-   Command 3:
+   Command 3 using a shorter name for `ieng6` in all of `ssh` and `scp` commands:
    ```
    ⤇ scp -r . ieng6:markdown-parse
    ```
