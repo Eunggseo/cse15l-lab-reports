@@ -25,8 +25,9 @@
   ![Image](privatekey.png)
 
   3. Show running `git` commands to commit and push a change to Github while logged into your ieng6 account.
-  ![Image](gitcommand.png)
+  ![Image](git.png)
   4. Show a link for the resulting commit.
+  https://github.com/Eunggseo/markdown-parser/commit/6587948449cf69329f1cb35f919786bd8242587d
 
 
 * ## Copy whole directories with `scp -r`
