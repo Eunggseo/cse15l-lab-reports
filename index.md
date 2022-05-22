@@ -8,6 +8,8 @@ _Hello! :)_
  
  * ## [Lab Report 3](https://eunggseo.github.io/cse15l-lab-reports/lab-report-3-week-6%20.html)
 
+  * ## [Lab Report 4](https://eunggseo.github.io/cse15l-lab-reports/lab-report-3-week-6%20.html)
+
 
 
 
