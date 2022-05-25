@@ -1,9 +1,14 @@
 # Lab Report 4
 
 * ### A link to your markdown-parse repository and a link to the one you reviewed in week 7
+  [my repository](https://github.com/Eunggseo/markdown-parsenew/tree/main/markdown-parserWenyu)
+
+  [reviewed one]( https://github.com/HantianLin/markdown-parser)
 
 * ### For each test above:
 1.  Decide on what it should produce (i.e., expected output) by using either VScode preview or the CommonMark demo site
+
+   VS code preview
 
 2.  Showing the code in MarkdownParseTest.java for how you turned it into a test
 
