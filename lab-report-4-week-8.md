@@ -5,16 +5,87 @@
 
   [reviewed one]( https://github.com/HantianLin/markdown-parser)
 
-* ### For each test above:
-1.  Decide on what it should produce (i.e., expected output) by using either VScode preview or the CommonMark demo site
+ ## **Snippet 1**
+```
+`[a link`](url.com)
 
-   VS code preview
+[another link](`google.com)`
 
-2.  Showing the code in MarkdownParseTest.java for how you turned it into a test
+[`cod[e`](google.com)
 
-3. For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+[`code]`](ucsd.edu)
+```
+* ### Test & output of running the test(Mine):
+![image](snippet1mtest.png)
 
-4. For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+![image](snippet1result.png)
+
+* ### Test & output of running the test(Reviewed):
+![image](snippet1test.png)
+
+![image](snippet1f.png)
+
+
+
+
+ ## Snippet 2
+ ```
+ [a [nested link](a.com)](b.com)
+
+[a nested parenthesized url](a.com(()))
+
+[some escaped \[ brackets \]](example.com)
+```
+* ### Test & output of running the test(Mine):
+![image](snippet3mtest.png)
+
+![image](snippet3result.png)
+
+* ### Test & output of running the test(Reviewed):
+![image](snippet2test.png)
+
+![image](snippet2f.png)
+
+
+
+ ## Snippet 3
+ ```
+ [this title text is really long and takes up more than 
+one line
+
+and has some line breaks](
+    https://www.twitter.com
+)
+
+[this title text is really long and takes up more than 
+one line](
+https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
+)
+
+
+[this link doesn't have a closing parenthesis](github.com
+
+And there's still some more text after that.
+
+[this link doesn't have a closing parenthesis for a while](https://cse.ucsd.edu/
+
+
+
+)
+
+And then there's more text
+```
+* ### Test & output of running the test(Mine):
+![image](snippet1mtest.png)
+
+![image](snippet1result.png)
+
+* ### Test & output of running the test(Reviewed):
+![image](snippet3test.png)
+
+![image](snippet3f.png)
+
+### For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
 * ### Do you think there is a small (<10 lines) code change that will make your program work for **snippet 1** and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
 
