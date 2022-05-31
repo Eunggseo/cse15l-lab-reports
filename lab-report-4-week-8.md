@@ -4,8 +4,12 @@
   [my repository](https://github.com/Eunggseo/markdown-parsenew/tree/main/markdown-parserWenyu)
 
   [reviewed one]( https://github.com/HantianLin/markdown-parser)
+## Expected outputs for all snippets
 
- ## **Snippet 1**
+![image](expectedoutputs.png)
+
+
+## **Snippet 1**
 ```
 `[a link`](url.com)
 
@@ -88,6 +92,7 @@ And then there's more text
 ### For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
 * ### Do you think there is a small (<10 lines) code change that will make your program work for **snippet 1** and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
+
 
 * ### Do you think there is a small (<10 lines) code change that will make your program work for **snippet 2** and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
 
