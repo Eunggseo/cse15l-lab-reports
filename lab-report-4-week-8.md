@@ -22,12 +22,17 @@
 * ### Test & JUnit output of running the test(Mine):
 ![image](snippet1mtest.png)
 
-![image](snippet1result.png)
+![image](snippet1d.png)
+
 
 * ### Test & JUnit output of running the test(Reviewed):
 ![image](snippet1test.png)
 
-![image](snippet1d.png)
+![image](snippet1res.png)
+
+
+
+
 
 
 
@@ -41,14 +46,14 @@
 [some escaped \[ brackets \]](example.com)
 ```
 * ### Test & JUnit output of running the test(Mine):
-![image](snippet3mtest.png)
+![image](snippet2mtest.png)
 
-![image](snippet3result.png)
+![image](snippet2d.png)
 
 * ### Test & JUnit output of running the test(Reviewed):
 ![image](snippet2test.png)
 
-![image](snippet2d.png)
+![image](snippet2res.png)
 
 
 
@@ -80,14 +85,14 @@ And there's still some more text after that.
 And then there's more text
 ```
 * ### Test & JUnit output of running the test(Mine):
-![image](snippet1mtest.png)
+![image](snippet3mtest.png)
 
-![image](snippet1result.png)
+![image](snippet3d.png)
 
 * ### Test & JUnit output of running the test(Reviewed):
 ![image](snippet3test.png)
 
-![image](snippet3d.png)
+![image](snippet3res.png)
 
 
 * ### Do you think there is a small (<10 lines) code change that will make your program work for **snippet 1** and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
