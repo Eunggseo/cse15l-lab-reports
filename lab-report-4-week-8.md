@@ -91,9 +91,26 @@ And then there's more text
 
 
 * ### Do you think there is a small (<10 lines) code change that will make your program work for **snippet 1** and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
+  My Code:
+
+  Yes. I can get the right outputs exclude "`google.com" by checking whther there has any backticks within the parenthesis to determine the link is invalid or not. 
+
+  Reviewed Code:
+
+  Yes. The other group can get the right outputs exclude "`google.com" by checking whther there has any backticks within the parenthesis to determine the link is invalid or not. 
+
 
 
 * ### Do you think there is a small (<10 lines) code change that will make your program work for **snippet 2** and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
+   My Code:
+
+  Yes. I can get the right outputs exclude "`google.com" by checking whther there has any backticks within the parenthesis to determine the link is invalid or not. 
+
+  Reviewed Code:
+
+  Yes. The other group can consider the brackets if the next bracket has an opposite facing direction. If-else statement is also a helpful way to solve it. 
+
+
 
 * ### Do you think there is a small (<10 lines) code change that will make your program work for **snippet 3** and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
 
