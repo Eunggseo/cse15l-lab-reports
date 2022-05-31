@@ -27,7 +27,7 @@
 * ### Test & JUnit output of running the test(Reviewed):
 ![image](snippet1test.png)
 
-![image](snippet1f.png)
+![image](snippet1d.png)
 
 
 
@@ -48,7 +48,7 @@
 * ### Test & JUnit output of running the test(Reviewed):
 ![image](snippet2test.png)
 
-![image](snippet2f.png)
+![image](snippet2d.png)
 
 
 
@@ -87,7 +87,7 @@ And then there's more text
 * ### Test & JUnit output of running the test(Reviewed):
 ![image](snippet3test.png)
 
-![image](snippet3f.png)
+![image](snippet3d.png)
 
 
 * ### Do you think there is a small (<10 lines) code change that will make your program work for **snippet 1** and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
