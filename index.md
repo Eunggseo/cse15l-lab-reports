@@ -12,5 +12,3 @@ _Hello! :)_
 
  * ## [Lab Report 5](https://eunggseo.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
 
-
-
